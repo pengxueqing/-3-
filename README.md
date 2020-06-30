@@ -1,4 +1,9 @@
 ＃-3-
 作者彭学庆
 jsp
-在老师的框架下写了userForm.jsp，uerList.j.sp，
+在老师的框架下写了userForm.jsp，uerList.jsp，articleForm.jsp，articlkeList.jsp，listManage文件下的form.jsp和list.jsp
+改了导航栏样式
+加了div边框
+改了按钮样式
+改了登录表单样式
+改了上传表单样式
